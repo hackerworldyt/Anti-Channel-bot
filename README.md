@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Follow on:
+### Follow On:
 <p align="left">
 <a href="https://github.com/Jigarvarma2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
